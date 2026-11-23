@@ -1,0 +1,1 @@
+{"description":"A fast drop-in for makefun-site 1.0.0: builds the same static site, byte for byte, in less CPU time","license":"MIT","name":"site-generator-speed","type":"module","version":"1.0.0"}
